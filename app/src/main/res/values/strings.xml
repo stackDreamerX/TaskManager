@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TaskManager</string>
+
+    
+    <string name="having_trouble_try_alternative_login">Gặp vấn đề? Thử phương thức đăng nhập khác</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="create_account">Tạo tài khoản</string>
 </resources>
