@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="960"
+    android:viewportHeight="960">
+
+    <!-- Orange background rectangle -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M220,140L740,140L740,820L220,820Z" />
+
+    <!-- Black phone/calendar outline -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M620,140L620,820L740,820L740,140Z" />
+
+    <!-- White checkmarks -->
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M440,340L400,300L350,350L440,440L560,320L510,270L440,340Z"/>
+
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M440,560L400,520L350,570L440,660L560,540L510,490L440,560Z"/>
+
+    <!-- Small design elements -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M660,290L700,290L700,330L660,330Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M660,390L700,390L700,430L660,430Z" />
+</vector>

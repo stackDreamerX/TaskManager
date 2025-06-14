@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="960"
+    android:viewportHeight="960">
+
+    <!-- Orange background rectangle -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M180,180L640,180L640,780L180,780Z" />
+
+    <!-- Black phone/calendar outline -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M580,180L780,380L780,780L580,780Z" />
+
+    <!-- Connection between black and orange -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M580,180L640,180L640,380L580,380Z" />
+
+    <!-- Arrow icon in black section -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M680,580L680,520L720,550L680,580Z" />
+
+    <!-- White checkmark in orange section -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M280,380L240,340L320,260L460,400L380,480L320,420L280,380Z" />
+
+    <!-- White line in orange section -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M280,580L500,580L500,620L280,620Z" />
+</vector>
